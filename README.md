@@ -19,6 +19,6 @@ The result will contains:
   <li>URL</li>
 </ul>
 
-<li>Any feedback are welcomed. Contact me at <b>m[d0t]khairulazam@gmail[d0t]com</b>.</li>
+<li>Any feedback are welcomed. You can contact me via email at <b>m[d0t]khairulazam@gmail[d0t]com</b>.</li>
 
 <p>Credit : <a href="https://suricata-ids.org">Suricata</a> for the logo :)</p>
