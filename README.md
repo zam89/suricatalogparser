@@ -7,7 +7,6 @@ A simple log parser for Suricata log file (JSON)
 
 <p><h1>Main Function</h1></p>
 <li>This analyzer will convert the Suricata JSON file that submitted and display the result in the next page.</li><br>
-
 The result will contains:
 <ul>
   <li>Source IP</li>
