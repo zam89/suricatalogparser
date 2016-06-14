@@ -1,0 +1,42 @@
+html {
+	text-align: center;
+}
+body{
+	font-family:Lucida Console, Monotype, Tahoma, Verdana;
+	font-size:12px;
+	margin:40px;padding:0;
+}
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+a:link {
+	text-decoration: none;
+	color: #0000FF;
+}
+a:visited {
+	text-decoration: none;
+	color: #0000FF;
+}
+a:hover {
+	text-decoration: underline;
+	color: #0000FF;
+}
+a:active {
+	text-decoration: none;
+	color: #0000FF;
+}
+table {
+table-layout: fixed;
+}
+
+th {
+font-family: Arial, Helvetica, sans-serif;
+font-size: .8em;
+}
+
+td {
+font-family: Arial, Helvetica, sans-serif;
+font-size: .8em;
+border: 1px solid #DDD;
+}
