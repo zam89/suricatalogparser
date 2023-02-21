@@ -2,7 +2,7 @@
 A simple log parser for Suricata log file (JSON)
 
 <h1>About</h1>
-<p>This system basically interpret Suricata IDS log files (JSON format) into more human-friendly and beautiful format.</p>
+<p>This tool basically interpret Suricata IDS log files (JSON format) into more human-friendly and beautiful format.</p>
 <p>This is just a layman's coding style. Create this just for fun and for learning purpose.</p>
 
 <p><h1>Main Function</h1></p>
@@ -24,6 +24,10 @@ The result will contains:
 <ol>
   <li>Clone this suricatalogparser to your computers/servers</li>
   <li>Put the folder on your html root folder. E.g. /var/www/html/</li>
+  <li>Make sure all files are owned by the Apache group and user. In Ubuntu, it is the www-data group and user</li>
+  > $ sudo chown -R www-data:www-data /var/www/html/suricatalogparser
+  <li>Enabled all members of the www-data group to read and write files</li>
+  > $ sudo chmod -R g+rw /var/www/html/suricatalogparser
   <li>Visit http://127.0.0.1/suricatalogparser via web browser</li>
   <li>Upload you JSON file that you got from Suricata IDS. Mostly the filename is "eve.json".</li>
   <li>Profit! :)</li>
