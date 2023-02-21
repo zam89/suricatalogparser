@@ -6,7 +6,7 @@
 	<body>
 		<table width="900" border="0" align="center" cellpadding="4" cellspacing="4" bgcolor="#FFFFFF">
 			<tr>
-				<td><center><a href="http://localhost/suricatalogparserv2/index.php">Home</a> | <a href="http://localhost/suricatalogparserv2/list.php">Analyzed PCAP</a> | <a href="http://localhost/suricatalogparserv2/about.php">About</a></center></td>
+				<td><center><a href="http://localhost/suricatalogparser/index.php">Home</a> | <a href="http://localhost/suricatalogparser/list.php">Analyzed PCAP</a> | <a href="http://localhost/suricatalogparser/about.php">About</a></center></td>
 			</tr>
 		</table>
 		<table width="900" border="0" align="center" cellpadding="4" cellspacing="4" bgcolor="#FFFFFF">
