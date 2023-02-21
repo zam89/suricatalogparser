@@ -18,7 +18,11 @@ The result will contains:
   <li>URL</li>
 </ul>
 
-![alt tag](https://raw.githubusercontent.com/zam89/suricatalogparser/master/list.png)
+Example output:
+![alt tag](list.png)
+
+Log Parser in action:
+![alt tag](suricatalogparser_in_action.gif)
 
 <h1>How to use</h1>
 <ol>
